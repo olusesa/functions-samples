@@ -1,0 +1,7 @@
+# Function dependencies, for example:
+# package>=version
+#Flask==0.10.1
+Flask==2.0.2
+google-cloud-bigquery==2.34.4
+pandas-gbq==0.16.0
+numpy==1.19.0 
