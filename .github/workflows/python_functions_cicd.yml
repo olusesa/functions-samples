@@ -16,14 +16,14 @@ name: Python function CICD
 
 on:
   pull_request:
-    branches:
-      - develop-local
+    # branches:
+    #   - develop-local
     paths:
       - 'Python/**'
 
   push:
-    branches:
-      - develop-local
+    # branches:
+    #   - develop-local
     paths:
       - 'Python/**'
 
